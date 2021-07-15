@@ -4,3 +4,12 @@
 # Roblox Studio lock files
 /*.rbxlx.lock
 /*.rbxl.lock
+
+node_modules
+src/node_modules
+
+src/.eslintrc.json
+src/.vscode/
+
+src/package-lock.json
+src/package.json
